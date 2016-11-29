@@ -1,2 +1,2 @@
 # Image-slider
-onClick javaScript
+onClick javaScript function
