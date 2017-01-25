@@ -1,0 +1,26 @@
+Saylani Progressive Web App Project (for batch 4):
+We will build a mobile friendly Progressive Web App/Website for Saylani using React and Firebase. You will take the basic ideas from these two sites:
+https://saylaniwelfare.com/
+http://www.sujood.co/ 
+Lets us find out who is the best developer in Saylani. The developer who will develop the best web app for Saylani will be invited to a one on one meeting and lunch with Maulana Muhammad Bashir Farooqui Qadri. The app will also be adopted for the official Saylani Web Site.
+Judges:
+Muhammad Ghazzal
+Abraham Khan
+Learning Resources:
+React Quickly Text Book:
+https://www.manning.com/books/react-quickly
+Firebase:
+https://firebase.google.com/
+ReactFire:
+https://github.com/firebase/reactfire 
+Progressive Web App:
+https://developers.google.com/web/progressive-web-apps/
+https://addyosmani.com/blog/progressive-web-apps-with-react/
+
+
+
+https://lab-26nov.firebaseapp.com/
+https://fawad-quiz-app.firebaseapp.com/
+https://github.com/mali521/Batch-4-JS/tree/master/Class%20No.%2019%20(22-1-2017)/QuizApp%20Snapshot
+https://quiz-f4f15.firebaseapp.com/
+https://javascriptquizapp.firebaseapp.com/
