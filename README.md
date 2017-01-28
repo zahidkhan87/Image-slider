@@ -2,6 +2,3 @@
 onClick javaScript function
 
 
-
-
-
